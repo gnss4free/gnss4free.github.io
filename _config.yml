@@ -1,6 +1,17 @@
----
-title: GNSS4Free
+title: GNSS4Free Projects
+description: Open-source projects for vehicle infotainment systems
+baseurl: ""
+url: "https://gnss4free.github.io"
 theme: minima
-social:
-  github: https://github.com/a005
----
+
+# Social links
+github_username: gnss4free
+twitter_username: null
+
+# Build settings
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
