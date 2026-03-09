@@ -1,17 +1,15 @@
-title: GNSS4Free Projects
-description: Open-source projects for vehicle infotainment systems
+title: Car Companion
+description:
 baseurl: ""
 url: "https://gnss4free.github.io"
 theme: minima
 
 # Social links
 github_username: gnss4free
-twitter_username: null
+#twitter_username: null
 
 # Build settings
 markdown: kramdown
 
 # Navigation
-header_pages:
-  - about.md
-  - projects.md
+#header_pages:
